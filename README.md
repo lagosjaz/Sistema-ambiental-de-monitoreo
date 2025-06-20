@@ -1,4 +1,4 @@
-# 🌱 Sistema ambiental de monitoreo
+# 🌱 Sistema de monitoreo ambiental
 Este proyecto consiste en el desarrollo de un sistema de monitoreo ambiental basado en una Raspberry Pi Zero W. El dispositivo mide y registra parámetros como temperatura, humedad y presencia de gases peligrosos, mostrando alertas cuando se detectan valores críticos. Además, presenta la información en tiempo real en una pantalla LCD y guarda los datos localmente para su análisis posterior.
 
 # Componentes utilizados
