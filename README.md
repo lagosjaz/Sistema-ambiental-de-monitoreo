@@ -5,10 +5,10 @@ Este proyecto consiste en el desarrollo de un sistema de monitoreo ambiental bas
     Raspberry Pi Zero W
     Sensor de temperatura y humedad DHT11
     Sensor de gases y humo MQ-2
-    Módulo ADC PMOD AD2
-    Pantalla LCD 20x4
+    Módulo PMOD AD2
+    Pantalla LCD 20x2
     Buzzer (alarma sonora)
-    Protoboard, resistencia 330Ω (naranja-naranja-marrón) y transistor          2N2222
+    Protoboard, resistencia 330Ω y transistor 2N2222
 
 # Software usado
     Raspberry Pi OS (sistema operativo)
