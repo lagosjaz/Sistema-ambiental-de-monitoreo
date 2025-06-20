@@ -17,7 +17,8 @@ Este proyecto consiste en el desarrollo de un sistema de monitoreo ambiental bas
 - Pantalla LCD 20x2
 - Buzzer (alarma sonora)
 - Protoboard, resistencia 330Ω y transistor 2N2222
-    
+
+# Codigos
 ###  `lee_guarda_datos.py`
 
 - Lee temperatura y humedad del sensor **DHT11**
